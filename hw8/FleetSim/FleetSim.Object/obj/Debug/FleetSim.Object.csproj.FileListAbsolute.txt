@@ -1,0 +1,5 @@
+C:\CC6\hw8biss\FleetSim\FleetSim.Object\obj\Debug\FleetSim.Object.csproj.CoreCompileInputs.cache
+C:\CC6\hw8biss\FleetSim\FleetSim.Object\bin\Debug\FleetSim.Object.dll
+C:\CC6\hw8biss\FleetSim\FleetSim.Object\bin\Debug\FleetSim.Object.pdb
+C:\CC6\hw8biss\FleetSim\FleetSim.Object\obj\Debug\FleetSim.Object.dll
+C:\CC6\hw8biss\FleetSim\FleetSim.Object\obj\Debug\FleetSim.Object.pdb
